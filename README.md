@@ -21,5 +21,22 @@ Good luck.
 
 # EDIT_ME
 
-Start editing here
+# Content page
+
+## Basic Introduction to DevOps
+
+- Command Line
+  -
+- Linux
+  -
+- Python
+  - [Python Documentation](https://www.python.org/doc/)
+  - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+- DevOps Theory
+  - [Git](https://git-scm.com/docs)
+  - [Docker](https://docs.docker.com/get-started/overview/)
+- Azure
+  - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
+  
+
 
