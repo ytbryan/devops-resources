@@ -11,5 +11,5 @@ Examples of unacceptable behavior by owners & tenants include:
 ---
 * Trolling, insulting/derogatory comments, and physical attacks.
 * Harassment and unwelcome imagery/language
-* Publiiiing others' private information, without explicit permission.
+* Publishing others' private information, without explicit permission.
 * Property damage or destruction of real or personal property, caused by negligence, willful destruction, or act of nature.
