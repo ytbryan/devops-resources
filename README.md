@@ -26,7 +26,7 @@ Good luck.
 ## Basic Introduction to DevOps
 
 - Command Line
-  -
+  - [PhyCharm Hack by Joey in Slack](https://www.jetbrains.com/help/pycharm/terminal-emulator.html#configure-the-terminal-emulator) 
 - Linux
   -
 - Python
