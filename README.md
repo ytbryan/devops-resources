@@ -28,7 +28,7 @@ Good luck.
 - Command Line
   -
 - Linux
-  -
+  - [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
 - Python
   - [Python Documentation](https://www.python.org/doc/)
   - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
