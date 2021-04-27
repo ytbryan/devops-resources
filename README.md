@@ -27,6 +27,7 @@ Good luck.
 
 - Command Line
 - Linux
+  - [How to secure remote login and file transfer](https://www.ssh.com/ssh/protocol/)
   - [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
   - [How to install Windows Subsystem for Linux on Windows 10](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10)
 - Python
