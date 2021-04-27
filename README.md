@@ -39,6 +39,4 @@ Good luck.
 - Azure
   - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
 - Clouds
-  - [Type of Cloud](file:///C:/Users/franc/Dropbox/Francis%202021/Cloud%20Devops/Differences%20between%20Cloud%20Computing.pdf)
-
-
+  - [Type of Cloud](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
