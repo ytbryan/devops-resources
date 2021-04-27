@@ -31,6 +31,7 @@ Good luck.
   - [How to install Windows Subsystem for Linux on Windows 10](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10)
 - Python
   - [Python Documentation](https://www.python.org/doc/)
+  - [Basic data types](https://realpython.com/python-data-types/)
   - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
   - Pycharm
     - [Configure the desired shell of terminal emulator](https://www.jetbrains.com/help/pycharm/terminal-emulator.html#configure-the-terminal-emulator)
