@@ -42,5 +42,6 @@ Good luck.
   - [Docker](https://docs.docker.com/get-started/overview/)
 - Azure
   - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
+  - [What is PaaS?](https://azure.microsoft.com/en-us/overview/what-is-paas/)
 - Clouds
   - [Type of Cloud](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
