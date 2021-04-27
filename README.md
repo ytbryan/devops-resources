@@ -26,12 +26,15 @@ Good luck.
 ## Basic Introduction to DevOps
 
 - Command Line
-  - [PhyCharm Hack by Joey in Slack](https://www.jetbrains.com/help/pycharm/terminal-emulator.html#configure-the-terminal-emulator) 
 - Linux
   -
 - Python
   - [Python Documentation](https://www.python.org/doc/)
   - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+  
+    - Pycharm
+    - [Configure the desired shell of terminal emulator](https://www.jetbrains.com/help/pycharm/terminal-emulator.html#configure-the-terminal-emulator)
+
 - DevOps Theory
   - [Git](https://git-scm.com/docs)
   - [Docker](https://docs.docker.com/get-started/overview/)
