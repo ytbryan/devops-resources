@@ -28,11 +28,12 @@ Good luck.
 - Command Line
 - Linux
   - [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
+  - [How to install Windows Subsystem for Linux on Windows 10](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10)
 - Python
   - [Python Documentation](https://www.python.org/doc/)
   - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
-    - Pycharm
-      - [Configure the desired shell of terminal emulator](https://www.jetbrains.com/help/pycharm/terminal-emulator.html#configure-the-terminal-emulator)
+  - Pycharm
+    - [Configure the desired shell of terminal emulator](https://www.jetbrains.com/help/pycharm/terminal-emulator.html#configure-the-terminal-emulator)
 - DevOps Theory
   - [Git](https://git-scm.com/docs)
   - [Docker](https://docs.docker.com/get-started/overview/)
