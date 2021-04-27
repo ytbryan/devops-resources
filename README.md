@@ -38,6 +38,7 @@ Good luck.
   - [Docker](https://docs.docker.com/get-started/overview/)
 - Azure
   - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
-  
+- Clouds
+  - [Type of Cloud](file:///C:/Users/franc/Dropbox/Francis%202021/Cloud%20Devops/Differences%20between%20Cloud%20Computing.pdf)
 
 
