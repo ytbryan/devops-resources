@@ -26,7 +26,7 @@ Good luck.
 ## Basic Introduction to DevOps
 
 - Command Line
-  - Popular Text Editor
+  - [Popular Text Editor](https://github.com/dlow1980/mansion/blob/main/README.md#popular-text-editor)
 - Linux
   - [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
   - [How to install Windows Subsystem for Linux on Windows 10](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10)
