@@ -56,19 +56,23 @@ Good luck.
 
 ### Popular Text Editor
   1.Vim
-  Almost all Linux distributions, even older versions, come with the Vim editor installed. Vim stands for Vi Improved, meaning that Vim is a modified and improved version of the old Vi   text editor.
+  
+  Almost all Linux distributions, even older versions, come with the Vim editor installed. Vim stands for Vi Improved, meaning that Vim is a modified and improved version of  the old Vi   text editor.
 
-  **Pros**: Vim supports automatic commands, digraph inputs (useful in programming), split and session screens, tabs, colored schemes (color-coded by function), and tagging. It can be c onfigured with plugins and comes with a tutorial (invoked with the vimtutor command). When you master the commands, Vim is very efficient.
+  **Pros**: Vim supports automatic commands, digraph inputs (useful in programming), split and session screens, tabs, colored schemes (color-coded by function), and tagging.   It can be c onfigured with plugins and comes with a tutorial (invoked with the vimtutor command). When you master the commands, Vim is very efficient.
 
   **Cons**: It does not have a GUI. The only way you can initiate Vim is from the command line. The interface is user-unfriendly, while some commands are not intuitive. Coding a file fr om scratch would be too complicated. The learning curve can be steep, but Vim is very popular in the Linux community.
+  
   ###[Basic Vim Commands](https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started)
 
  2.Nano
- Nano is a revision of an older editor called Pico and comes pre-loaded on most Linux installations. Nano is an ideal lightweight editor for beginners. It’s a lot easier to use than Vim , so it’s worth learning Nano for quick configuration edits.
+ 
+ Nano is a revision of an older editor called Pico and comes pre-loaded on most Linux installations. Nano is an ideal lightweight editor for beginners. It’s a lot easier to  use than Vim , so it’s worth learning Nano for quick configuration edits.
 
  **Pros**: It supports GNU Autoconf, interactive search-and-replace, auto-indent, and spellcheck. Nano is intuitive and easy to use. It lists the keystroke commands at the bottom of the editor, so you don’t have to memorize or look them up.
 
  **Cons**: The list of commands is short and some may be unintuitive.
+ 
  ###[Basic Nano Commands](https://www.nano-editor.org/dist/latest/cheatsheet.html)
 
 
