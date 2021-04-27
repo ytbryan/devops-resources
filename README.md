@@ -52,6 +52,7 @@ Good luck.
 - DevOps Theory
   - [Git](https://git-scm.com/docs)
     - [Git Stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
+    - [Working with forks](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks)
   - [Docker](https://docs.docker.com/get-started/overview/)
 >>>>>>> 859d675e027d282c888be783114f5fba9c886a71
 - Azure
