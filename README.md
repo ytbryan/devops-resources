@@ -27,12 +27,11 @@ Good luck.
 
 - Command Line
 - Linux
-  -
 - Python
   - [Python Documentation](https://www.python.org/doc/)
   - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
   
-    - Pycharm
+  - Pycharm
     - [Configure the desired shell of terminal emulator](https://www.jetbrains.com/help/pycharm/terminal-emulator.html#configure-the-terminal-emulator)
 
 - DevOps Theory
