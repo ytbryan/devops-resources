@@ -38,6 +38,6 @@ Good luck.
   - [Docker](https://docs.docker.com/get-started/overview/)
 - Azure
   - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
-  
+  - [Azure CLI installation](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
 
 
