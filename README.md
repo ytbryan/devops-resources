@@ -30,6 +30,7 @@ Good luck.
 - Linux
     - [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
 - Python
+<<<<<<< HEAD
     - [Python Documentation](https://www.python.org/doc/)
     - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
         - Pycharm
@@ -37,12 +38,22 @@ Good luck.
 - DevOps Theory
     - [Git](https://git-scm.com/docs)
     - [Docker](https://docs.docker.com/get-started/overview/)
-
-- Blogs
+- DevOps Blogs
     - [DevOps Group Blog](https://www.devopsgroup.com/blog/)
     - [Digital.ai](https://digital.ai/catalyst-blog)
     - [Everything DevOps on Reddit](https://www.reddit.com/r/devops/)
- 
+
+=======
+  - [Python Documentation](https://www.python.org/doc/)
+  - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+  - Pycharm
+    - [Configure the desired shell of terminal emulator](https://www.jetbrains.com/help/pycharm/terminal-emulator.html#configure-the-terminal-emulator)
+    - [Pycharm keyboard shortcuts](https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html)
+- DevOps Theory
+  - [Git](https://git-scm.com/docs)
+    - [Git Stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
+  - [Docker](https://docs.docker.com/get-started/overview/)
+>>>>>>> 859d675e027d282c888be783114f5fba9c886a71
 - Azure
     - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
 - Clouds
