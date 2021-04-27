@@ -34,6 +34,7 @@ Good luck.
   
     - Pycharm
     - [Configure the desired shell of terminal emulator](https://www.jetbrains.com/help/pycharm/terminal-emulator.html#configure-the-terminal-emulator)
+    - [Pycharm keyboard shortcuts](https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html) 
 
 - DevOps Theory
   - [Git](https://git-scm.com/docs)
