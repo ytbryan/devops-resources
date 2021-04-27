@@ -1,0 +1,6 @@
+How do I remove/stop a process?
+•	Kill - terminate or signal a process
+•	Command: kill -9 <PID>
+PID: Process ID
+Reason: Processes are using excessive resources using the terminal
+
