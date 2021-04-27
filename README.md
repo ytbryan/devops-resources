@@ -37,7 +37,6 @@ Good luck.
   - [Docker](https://docs.docker.com/get-started/overview/)
 - Azure
   - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
-- PaaS explanation and advantages
-  - [PaaS](https://azure.microsoft.com/en-us/overview/what-is-paas/)
+  - [What is a PaaS](https://azure.microsoft.com/en-us/overview/what-is-paas/)
 
 
