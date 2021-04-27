@@ -31,11 +31,10 @@ Good luck.
 - Python
   - [Python Documentation](https://www.python.org/doc/)
   - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
- - Pycharm
-      - [Configure the desired shell of terminal emulator](https://www.jetbrains.com/help/pycharm/terminal-emulator.html#configure-the-terminal-emulator)
-      - [Pycharm keyboard shortcuts](https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html) 
+  - Pycharm
+        - [Configure the desired shell of terminal emulator](https://www.jetbrains.com/help/pycharm/terminal-emulator.html#configure-the-terminal-emulator)
+        - [Pycharm keyboard shortcuts](https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html) 
 
-      - [Configure the desired shell of terminal emulator](https://www.jetbrains.com/help/pycharm/terminal-emulator.html#configure-the-terminal-emulator)
 - DevOps Theory
   - [Git](https://git-scm.com/docs)
   - [Docker](https://docs.docker.com/get-started/overview/)
