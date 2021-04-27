@@ -35,6 +35,9 @@ Good luck.
       - [Configure the desired shell of terminal emulator](https://www.jetbrains.com/help/pycharm/terminal-emulator.html#configure-the-terminal-emulator)
 - DevOps Theory
   - [Git](https://git-scm.com/docs)
+    - Git workflow
+      - [Simple workflow for collaboration](https://www.dataschool.io/simple-guide-to-forks-in-github-and-git/)
+      - [Workflow with branching](https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/)
   - [Docker](https://docs.docker.com/get-started/overview/)
 - Azure
   - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
