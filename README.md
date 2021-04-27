@@ -57,11 +57,11 @@ Good luck.
 ### Popular Text Editor
   1.Vim
   
-  Almost all Linux distributions, even older versions, come with the Vim editor installed. Vim stands for Vi Improved, meaning that Vim is a modified and improved version of  the old Vi   text editor.
+  Almost all Linux distributions, even older versions, come with the Vim editor installed. Vim stands for Vi Improved, meaning that Vim is a modified and improved version of  the old Vi text editor.
 
-  **Pros**: Vim supports automatic commands, digraph inputs (useful in programming), split and session screens, tabs, colored schemes (color-coded by function), and tagging.   It can be c onfigured with plugins and comes with a tutorial (invoked with the vimtutor command). When you master the commands, Vim is very efficient.
+  **Pros**: Vim supports automatic commands, digraph inputs (useful in programming), split and session screens, tabs, colored schemes (color-coded by function), and tagging.   It can be configured with plugins and comes with a tutorial (invoked with the vimtutor command). When you master the commands, Vim is very efficient.
 
-  **Cons**: It does not have a GUI. The only way you can initiate Vim is from the command line. The interface is user-unfriendly, while some commands are not intuitive. Coding a file fr om scratch would be too complicated. The learning curve can be steep, but Vim is very popular in the Linux community.
+  **Cons**: It does not have a GUI. The only way you can initiate Vim is from the command line. The interface is user-unfriendly, while some commands are not intuitive. Coding a file from scratch would be too complicated. The learning curve can be steep, but Vim is very popular in the Linux community.
   
   ###[Basic Vim Commands](https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started)
 
