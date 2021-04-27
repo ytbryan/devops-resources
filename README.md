@@ -39,6 +39,11 @@ Good luck.
   - [Git](https://git-scm.com/docs)
     - [Git Stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
     - [Working with forks](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks)
+- DevOps Blogs
+    - [DevOps Group Blog](https://www.devopsgroup.com/blog/)
+    - [Digital.ai](https://digital.ai/catalyst-blog)
+    - [Everything DevOps on Reddit](https://www.reddit.com/r/devops/)
+
   - [Docker](https://docs.docker.com/get-started/overview/)
 - Azure
   - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
