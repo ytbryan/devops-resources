@@ -34,7 +34,7 @@ Good luck.
   - [Python Documentation](https://www.python.org/doc/)
   - [Basic data types](https://realpython.com/python-data-types/)
   - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
-   -[How to Create Python Virtual Environments on Ubuntu 18.04](https://linuxize.com/post/how-to-create-python-virtual-environments-on-ubuntu-18-04/)
+  - [How to Create Python Virtual Environments on Ubuntu 18.04](https://linuxize.com/post/how-to-create-python-virtual-environments-on-ubuntu-18-04/)
   - Pycharm
     - [Configure the desired shell of terminal emulator](https://www.jetbrains.com/help/pycharm/terminal-emulator.html#configure-the-terminal-emulator)
     - [Pycharm keyboard shortcuts](https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html)
