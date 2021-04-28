@@ -48,6 +48,7 @@ Good luck.
   - [Docker](https://docs.docker.com/get-started/overview/)
 - Azure
   - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
+  - [Azure CLI installation](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
   - [What is IaaS?](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
   - [What is PaaS?](https://azure.microsoft.com/en-us/overview/what-is-paas/)
   - [What is SaaS?](https://azure.microsoft.com/en-us/overview/what-is-saas/)
