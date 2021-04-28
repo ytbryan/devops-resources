@@ -14,7 +14,7 @@
 * Publishing others' private information, without explicit permission.
 * Property damage or destruction of real or personal property, caused by negligence, willful destruction, or act of nature.
 
-![The Estate Agent Act for further reference]
+[The Estate Agent Act for further reference]
 (https://www.cea.gov.sg/consumers/complaints/report-a-salesperson-estate-agent)
 
 
