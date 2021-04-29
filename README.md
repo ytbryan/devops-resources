@@ -57,3 +57,5 @@ Good luck.
   - [What is SaaS?](https://azure.microsoft.com/en-us/overview/what-is-saas/)
 - Clouds
   - [Type of Cloud](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
+- Networking
+  - [Fundamentals of Computer Networking](https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/)
