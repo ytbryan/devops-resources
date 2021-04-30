@@ -21,7 +21,7 @@ Good luck.
 
 # EDIT_ME
 
-![devopslogo](/devopslogo.jpg)
+![logo](logo.jpg)
 
 # Content page
 
