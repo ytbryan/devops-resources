@@ -40,7 +40,7 @@ Good luck.
   - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
   - [How to Create Python Virtual Environments on Ubuntu 18.04](https://linuxize.com/post/how-to-create-python-virtual-environments-on-ubuntu-18-04/)
   - [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet)
-- Pycharm
+  - [Pycharm](https://www.jetbrains.com/pycharm/)
     - [Configure the desired shell of terminal emulator](https://www.jetbrains.com/help/pycharm/terminal-emulator.html#configure-the-terminal-emulator)
     - [Pycharm keyboard shortcuts](https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html)
 - DevOps Theory
