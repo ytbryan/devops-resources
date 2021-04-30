@@ -21,6 +21,8 @@ Good luck.
 
 # EDIT_ME
 
+![logo](logo.jpg)
+
 # Content page
 
 ## Basic Introduction to DevOps
@@ -55,6 +57,7 @@ Good luck.
   - [What is IaaS?](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
   - [What is PaaS?](https://azure.microsoft.com/en-us/overview/what-is-paas/)
   - [What is SaaS?](https://azure.microsoft.com/en-us/overview/what-is-saas/)
+  - [Creating an Azure account](https://docs.microsoft.com/en-us/dotnet/azure/create-azure-account)
 - Clouds
   - [Type of Cloud](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
 - Networking
