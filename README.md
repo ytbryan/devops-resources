@@ -28,6 +28,7 @@ Good luck.
 ## Basic Introduction to DevOps
 
 - Command Line
+  - [What is Command Line Interface](https://en.wikipedia.org/wiki/Command-line_interface)
   - [Why learn Command Line](https://www.dataquest.io/blog/why-learn-the-command-line/)
 - Linux
   - [How to secure remote login and file transfer](https://www.ssh.com/ssh/protocol/)
