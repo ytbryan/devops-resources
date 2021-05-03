@@ -1,6 +1,5 @@
 #  DevOps FAQ
-
-A list of questions that has been asked for better understanding.
+A list of questions covering various topics in DevOps.
 
 
 - [Mansion](#mansion)
