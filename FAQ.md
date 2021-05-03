@@ -66,8 +66,3 @@ Change to `18` as integer
 
 --
 
-**6. Qns**:\
-
-**Ans**: 
-
---
