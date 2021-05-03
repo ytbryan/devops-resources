@@ -8,7 +8,6 @@ A list of questions that has been asked for better understanding.
 
 ## Database
 
----
 *There are various types of databases; relational databases, non-relational databases. 
 Here are some questions pertaining to databases*
 
