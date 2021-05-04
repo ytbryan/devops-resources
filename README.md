@@ -50,7 +50,6 @@ Good luck.
   - [Everything DevOps on Reddit](https://www.reddit.com/r/devops/)
   - [Docker](https://docs.docker.com/get-started/overview/)
 - Azure
-  - [Azure Exam Skill measurement](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY) - [Reference](https://docs.microsoft.com/en-gb/learn/certifications/exams/az-900)
   - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
   - [Azure CLI installation](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
   - [What is IaaS?](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
