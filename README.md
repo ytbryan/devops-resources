@@ -54,14 +54,14 @@ Good luck.
   - [Everything DevOps on Reddit](https://www.reddit.com/r/devops/)
   - [Docker](https://docs.docker.com/get-started/overview/)
 - Azure
-  - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
+  - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=feature)
   - [Azure CLI installation](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
   - [What is IaaS?](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
   - [What is PaaS?](https://azure.microsoft.com/en-us/overview/what-is-paas/)
   - [What is SaaS?](https://azure.microsoft.com/en-us/overview/what-is-saas/)
   - [Creating an Azure account](https://docs.microsoft.com/en-us/dotnet/azure/create-azure-account)
-  - [Types of Database on Azure](https://azure.microsoft.com/en-us/product-categories/databases/)
-    - [SQL vs NoSQL](https://www.xplenty.com/blog/the-sql-vs-nosql-difference/#:~:text=SQL%20databases%20are%20relational%2C%20NoSQL,dynamic%20schemas%20for%20unstructured%20data.&text=SQL%20databases%20are%20table%20based,graph%20or%20wide%2Dcolumn%20stores.)
+  - [Types of Databases on Azure](https://azure.microsoft.com/en-us/product-categories/databases/)
+    - [SQL vs NoSQL](https://www.xplenty.com/blog/the-sql-vs-nosql-difference/)
 - Clouds
   - [Type of Cloud](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
 - Networking
