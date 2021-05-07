@@ -47,6 +47,7 @@ Good luck.
   - [Digital.ai](https://digital.ai/catalyst-blog)
   - [Everything DevOps on Reddit](https://www.reddit.com/r/devops/)
   - [Docker](https://docs.docker.com/get-started/overview/)
+    - [Docker Command](https://docs.docker.com/engine/reference/run/)
 - Azure
   - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
   - [Azure CLI installation](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
