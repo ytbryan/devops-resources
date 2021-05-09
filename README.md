@@ -1,12 +1,12 @@
 # mansion
 
-Mansion is just a testing repo for learners to commit into open source project. 
+Mansion is just a testing repo for learners to commit into open source project.
 
-These are the steps you need to learn: 
+These are the steps you need to learn:
 
 1. Please do not edit these texts. If you wish to edit, please start at EDIT_ME section
 
-2. Study the structures of a some opensource repo like: 
+2. Study the structures of a some opensource repo like:
 [rails/rails](https://github.com/rails/rails)
 [flask](https://github.com/pallets/flask)
 [awesome python](https://github.com/vinta/awesome-python)
@@ -15,7 +15,7 @@ Look out for the type of files available in their repo and why they are there.
 
 3. Some of the basic files to be included are LICENCE.md, README.md, CODE_OF_CONDUCT.md
 
-4. ONLY Submit content relating to Python or DevOps into this `mansion` repo. You can take inspiration from ACG, Class summary or anything good from stackoverflow, github or duckduckgo. 
+4. ONLY Submit content relating to Python or DevOps into this `mansion` repo. You can take inspiration from ACG, Class summary or anything good from stackoverflow, github or duckduckgo.
 
 Good luck.
 
@@ -34,7 +34,7 @@ Good luck.
   - [How to secure remote login and file transfer](https://www.ssh.com/ssh/protocol/)
   - [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
   - [How to install Windows Subsystem for Linux on Windows 10](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10)
-  - [Cheat Sheet for Linux](http://academy.delmar.edu/Courses/ITSC1358/eBooks/Unix%28CommandsCheatSheet%29.pdf)   
+  - [Cheat Sheet for Linux](http://academy.delmar.edu/Courses/ITSC1358/eBooks/Unix%28CommandsCheatSheet%29.pdf)
 
 - Python
   - [Python Documentation](https://www.python.org/doc/)
@@ -55,6 +55,7 @@ Good luck.
   - [Everything DevOps on Reddit](https://www.reddit.com/r/devops/)
   - [Docker](https://docs.docker.com/get-started/overview/)
 - Azure
+  - [Azure Exam Skill measurement](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY) - [Reference](https://docs.microsoft.com/en-gb/learn/certifications/exams/az-900)
   - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
   - [Azure CLI installation](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
   - [What is IaaS?](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
