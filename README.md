@@ -62,6 +62,8 @@ Good luck.
   - [What is PaaS?](https://azure.microsoft.com/en-us/overview/what-is-paas/)
   - [What is SaaS?](https://azure.microsoft.com/en-us/overview/what-is-saas/)
   - [Creating an Azure account](https://docs.microsoft.com/en-us/dotnet/azure/create-azure-account)
+  - [Types of Databases on Azure](https://azure.microsoft.com/en-us/product-categories/databases/)
+    - [SQL vs NoSQL](https://www.xplenty.com/blog/the-sql-vs-nosql-difference/)
 - Clouds
   - [Type of Cloud](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
 - Networking
