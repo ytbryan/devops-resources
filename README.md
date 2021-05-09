@@ -1,12 +1,12 @@
 # mansion
 
-Mansion is just a testing repo for learners to commit into open source project. 
+Mansion is just a testing repo for learners to commit into open source project.
 
-These are the steps you need to learn: 
+These are the steps you need to learn:
 
 1. Please do not edit these texts. If you wish to edit, please start at EDIT_ME section
 
-2. Study the structures of a some opensource repo like: 
+2. Study the structures of a some opensource repo like:
 [rails/rails](https://github.com/rails/rails)
 [flask](https://github.com/pallets/flask)
 [awesome python](https://github.com/vinta/awesome-python)
@@ -15,27 +15,34 @@ Look out for the type of files available in their repo and why they are there.
 
 3. Some of the basic files to be included are LICENCE.md, README.md, CODE_OF_CONDUCT.md
 
-4. ONLY Submit content relating to Python or DevOps into this `mansion` repo. You can take inspiration from ACG, Class summary or anything good from stackoverflow, github or duckduckgo. 
+4. ONLY Submit content relating to Python or DevOps into this `mansion` repo. You can take inspiration from ACG, Class summary or anything good from stackoverflow, github or duckduckgo.
 
 Good luck.
 
 # EDIT_ME
+
+![logo](logo.jpg)
 
 # Content page
 
 ## Basic Introduction to DevOps
 
 - Command Line
+  - [What is Command Line Interface](https://en.wikipedia.org/wiki/Command-line_interface)
+  - [Why learn Command Line](https://www.dataquest.io/blog/why-learn-the-command-line/)
 - Linux
   - [How to secure remote login and file transfer](https://www.ssh.com/ssh/protocol/)
   - [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
   - [How to install Windows Subsystem for Linux on Windows 10](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10)
+  - [Cheat Sheet for Linux](http://academy.delmar.edu/Courses/ITSC1358/eBooks/Unix%28CommandsCheatSheet%29.pdf)
+
 - Python
   - [Python Documentation](https://www.python.org/doc/)
   - [Basic data types](https://realpython.com/python-data-types/)
   - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
   - [How to Create Python Virtual Environments on Ubuntu 18.04](https://linuxize.com/post/how-to-create-python-virtual-environments-on-ubuntu-18-04/)
-  - Pycharm
+  - [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet)
+  - [Pycharm](https://www.jetbrains.com/pycharm/)
     - [Configure the desired shell of terminal emulator](https://www.jetbrains.com/help/pycharm/terminal-emulator.html#configure-the-terminal-emulator)
     - [Pycharm keyboard shortcuts](https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html)
 - DevOps Theory
@@ -48,10 +55,16 @@ Good luck.
   - [Everything DevOps on Reddit](https://www.reddit.com/r/devops/)
   - [Docker](https://docs.docker.com/get-started/overview/)
 - Azure
+  - [Azure Exam Skill measurement](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY) - [Reference](https://docs.microsoft.com/en-gb/learn/certifications/exams/az-900)
   - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
   - [Azure CLI installation](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
   - [What is IaaS?](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
   - [What is PaaS?](https://azure.microsoft.com/en-us/overview/what-is-paas/)
   - [What is SaaS?](https://azure.microsoft.com/en-us/overview/what-is-saas/)
+  - [Creating an Azure account](https://docs.microsoft.com/en-us/dotnet/azure/create-azure-account)
+  - [Types of Databases on Azure](https://azure.microsoft.com/en-us/product-categories/databases/)
+    - [SQL vs NoSQL](https://www.xplenty.com/blog/the-sql-vs-nosql-difference/)
 - Clouds
   - [Type of Cloud](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
+- Networking
+  - [Fundamentals of Computer Networking](https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/)
