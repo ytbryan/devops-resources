@@ -54,7 +54,6 @@ Good luck.
   - [Digital.ai](https://digital.ai/catalyst-blog)
   - [Everything DevOps on Reddit](https://www.reddit.com/r/devops/)
   - [Docker](https://docs.docker.com/get-started/overview/)
-    - [Docker Command](https://docs.docker.com/engine/reference/run/)
 - Azure
   - [Azure Exam Skill measurement](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY) - [Reference](https://docs.microsoft.com/en-gb/learn/certifications/exams/az-900)
   - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
