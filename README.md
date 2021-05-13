@@ -53,8 +53,8 @@ Good luck.
   - [DevOps Group Blog](https://www.devopsgroup.com/blog/)
   - [Digital.ai](https://digital.ai/catalyst-blog)
   - [Everything DevOps on Reddit](https://www.reddit.com/r/devops/)
-  - [Docker](https://docs.docker.com/get-started/overview/)
 - Azure
+  - [Azure Certification Path](https://www.besanttechnologies.com/microsoft-azure-certification-path)
   - [Azure Exam Skill measurement](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY) - [Reference](https://docs.microsoft.com/en-gb/learn/certifications/exams/az-900)
   - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
   - [Azure CLI installation](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
@@ -64,6 +64,10 @@ Good luck.
   - [Creating an Azure account](https://docs.microsoft.com/en-us/dotnet/azure/create-azure-account)
   - [Types of Databases on Azure](https://azure.microsoft.com/en-us/product-categories/databases/)
     - [SQL vs NoSQL](https://www.xplenty.com/blog/the-sql-vs-nosql-difference/)
+- Docker
+  - [Docker Overview](https://docs.docker.com/get-started/overview/)
+  - [Docker Tutorial Video](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+  - [Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)
 - Clouds
   - [Type of Cloud](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
 - Networking
