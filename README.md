@@ -1,6 +1,3 @@
-
-# EDIT_ME
-
 ![logo](logo.jpg)
 
 # Content page
