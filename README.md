@@ -11,14 +11,14 @@
   - [How to secure remote login and file transfer](https://www.ssh.com/ssh/protocol/)
   - [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
   - [How to install Windows Subsystem for Linux on Windows 10](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10)
-  - [Cheat Sheet for Linux](http://academy.delmar.edu/Courses/ITSC1358/eBooks/Unix%28CommandsCheatSheet%29.pdf)
+  - Vim
+    - [Learn Vim using vimgenius](http://www.vimgenius.com/)
 
 - Python
   - [Python Documentation](https://www.python.org/doc/)
   - [Basic data types](https://realpython.com/python-data-types/)
   - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
   - [How to Create Python Virtual Environments on Ubuntu 18.04](https://linuxize.com/post/how-to-create-python-virtual-environments-on-ubuntu-18-04/)
-  - [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet)
   - [Pycharm](https://www.jetbrains.com/pycharm/)
     - [Configure the desired shell of terminal emulator](https://www.jetbrains.com/help/pycharm/terminal-emulator.html#configure-the-terminal-emulator)
     - [Pycharm keyboard shortcuts](https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html)
@@ -26,6 +26,9 @@
   - [Git](https://git-scm.com/docs)
     - [Git Stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
     - [Working with forks](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks)
+    - [Syncing a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
+  - [Periodic table of Devops tools](https://digital.ai/periodic-table-of-devops-tools)
+  
 - DevOps Blogs
   - [DevOps Group Blog](https://www.devopsgroup.com/blog/)
   - [Digital.ai](https://digital.ai/catalyst-blog)
@@ -46,3 +49,17 @@
   - [Type of Cloud](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
 - Networking
   - [Fundamentals of Computer Networking](https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/)
+  - [A set of networking tutorials](https://www.softwaretestinghelp.com/computer-networking-basics/)
+  
+- A Collection of Cheatsheet
+  - [Vim cheatsheet](https://vim.rtorr.com)
+  - [Git cheatsheet](http://git-cheatsheet.com/)
+  - [Python cheatsheet](https://github.com/gto76/python-cheatsheet)
+  - [Unix command cheatsheet](http://academy.delmar.edu/Courses/ITSC1358/eBooks/Unix%28CommandsCheatSheet%29.pdf)
+
+- Common troubleshooting
+  - [Fixing the github tool issue with a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+
+- Useful softwares
+  - [Git Bash](https://gitforwindows.org/)
+  - 
