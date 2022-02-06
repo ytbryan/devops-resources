@@ -1,7 +1,5 @@
 ![logo](logo.jpg)
 
-# Content page
-
 ## Basic Introduction to DevOps
 
 - Command Line
@@ -69,6 +67,11 @@
 - Common troubleshooting
   - [Fixing the github tool issue with a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
-- Useful softwares
+- Useful softwares for Window users
   - [Git Bash](https://gitforwindows.org/)
-  - 
+  - [Window Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)
+  -[WSL](https://docs.microsoft.com/en-us/windows/wsl/)
+
+- Useful softwares for Mac users
+  - [Oh My Z](https://ohmyz.sh)
+  - [homebrew](https://brew.sh)
