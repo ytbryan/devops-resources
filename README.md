@@ -75,3 +75,7 @@
 - Useful softwares for Mac users
   - [Oh My Z](https://ohmyz.sh)
   - [homebrew](https://brew.sh)
+
+- Azure Certification
+  - [AZ900 - Sample Questions](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWSRk3)
+  - [Comparison between AWS & Azure](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
