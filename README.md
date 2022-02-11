@@ -79,3 +79,9 @@
 - Azure Certification
   - [AZ900 - Sample Questions](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWSRk3)
   - [Comparison between AWS & Azure](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
+
+- Terraform
+  - [Learn Terraform the hard way](https://github.com/AdminTurnedDevOps/Terraform-The-Hard-Way)
+
+- Kubernetes
+  - [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
