@@ -33,6 +33,8 @@
     - [Syncing a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
   - [Periodic table of Devops tools](https://digital.ai/periodic-table-of-devops-tools)
 
+- Vim 
+  - [Vim References](https://learnbyexample.github.io/vim_reference/Introduction.html)
   
 - DevOps Blogs
   - [DevOps Group Blog](https://www.devopsgroup.com/blog/)
@@ -42,10 +44,12 @@
     - [Docker Command](https://docs.docker.com/engine/reference/run/)
     - [Docker beginner to expert](https://dockerlabs.collabnix.com)
     - [Docker overview](https://medium.com/@kmdkhadeer/docker-get-started-9aa7ee662cea)
+
 - Azure
   - [Azure Exam Skill measurement](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY) - [Reference](https://docs.microsoft.com/en-gb/learn/certifications/exams/az-900)
   - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
   - [Azure CLI installation](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
+  - [Cloud service models](https://jelvix.com/blog/cloud-service-models)
   - [What is IaaS?](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
   - [What is PaaS?](https://azure.microsoft.com/en-us/overview/what-is-paas/)
   - [What is SaaS?](https://azure.microsoft.com/en-us/overview/what-is-saas/)
