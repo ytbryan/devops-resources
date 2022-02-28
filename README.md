@@ -84,6 +84,9 @@
   - [AZ900 - Sample Questions](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWSRk3)
   - [Comparison between AWS & Azure](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
 
+- Ansible
+  - [Arithmetic Operations in Ansible with Jinja syntax](https://www.mydailytutorials.com/ansible-arithmetic-operations/)
+
 - Terraform
   - [Learn Terraform the hard way](https://github.com/AdminTurnedDevOps/Terraform-The-Hard-Way)
 
