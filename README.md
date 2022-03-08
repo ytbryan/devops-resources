@@ -89,6 +89,9 @@
 
 - Terraform
   - [Learn Terraform the hard way](https://github.com/AdminTurnedDevOps/Terraform-The-Hard-Way)
+    - Terraform tools
+      - [Terragrunt](https://github.com/gruntwork-io/terragrunt)
+      - [Terrascan](https://github.com/accurics/terrascan)
 
 - Kubernetes
   - [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
