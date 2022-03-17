@@ -65,6 +65,7 @@
 - A Collection of Cheatsheet
   - [Vim cheatsheet](https://vim.rtorr.com)
   - [Git cheatsheet](http://git-cheatsheet.com/)
+  - [Git cheatsheet2 by ndpsoftware](https://ndpsoftware.com/git-cheatsheet.html#loc=stash)
   - [Python cheatsheet](https://github.com/gto76/python-cheatsheet)
   - [Unix command cheatsheet](http://academy.delmar.edu/Courses/ITSC1358/eBooks/Unix%28CommandsCheatSheet%29.pdf)
 
