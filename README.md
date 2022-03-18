@@ -96,3 +96,7 @@
 
 - Kubernetes
   - [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
+
+- Some Architecture 
+  - [SHIP HATS - Govt Tech architecture](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/architecture-diagram)
+  - [IBM Continous delivery pipeline](https://www.ibm.com/cloud/architecture/architectures/devOpsArchitecture/)
