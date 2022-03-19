@@ -1,5 +1,9 @@
 ![logo](logo.jpg)
 
+
+## What is DevOps
+- [What is Devops](https://www.youtube.com/watch?v=Xrgk023l4lI)
+
 ## Basic Introduction to DevOps
 
 - Command Line
@@ -13,6 +17,8 @@
   - [Video - The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=9s)
   - Vim
     - [Learn Vim using vimgenius](http://www.vimgenius.com/)
+  - SysOps 
+    - [Sysops handbook](https://abarrak.gitbook.io/linux-sysops-handbook)
 
 - Python
   - [Python Documentation](https://www.python.org/doc/)
@@ -100,3 +106,8 @@
 - Some Architecture 
   - [SHIP HATS - Govt Tech architecture](https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/architecture-diagram)
   - [IBM Continous delivery pipeline](https://www.ibm.com/cloud/architecture/architectures/devOpsArchitecture/)
+
+
+- News 
+  - [devopsdigest](https://www.devopsdigest.com)
+  - 
