@@ -20,6 +20,9 @@
   - SysOps 
     - [Sysops handbook](https://abarrak.gitbook.io/linux-sysops-handbook)
 
+- Git
+  - [Learn Git Branching](https://learngitbranching.js.org/)
+
 - Python
   - [Python Documentation](https://www.python.org/doc/)
   - [Basic data types](https://realpython.com/python-data-types/)
