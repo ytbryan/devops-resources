@@ -3,6 +3,8 @@
 
 ## What is DevOps
 - [What is Devops](https://www.youtube.com/watch?v=Xrgk023l4lI)
+- [Acloudguru - What is devops](https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1596643034334-devops-essentials-slides_1524580554.pdf)
+- [Acloudguru - periodic table of devops](https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1596643207021-periodic-table-of-devops-tools-v3-1_1567623477.pdf)
 
 ## Basic Introduction to DevOps
 
