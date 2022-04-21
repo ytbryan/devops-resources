@@ -40,6 +40,8 @@
     - [Working with forks](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks)
     - [Syncing a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
     - [Learn Git Branching](https://learngitbranching.js.org/)
+    - [An open source game about learning Git!](https://ohmygit.org/)
+    - [Oh Shit, Git!?!](https://ohshitgit.com/)
   - [Periodic table of Devops tools](https://digital.ai/periodic-table-of-devops-tools)
 
 - Vim 
