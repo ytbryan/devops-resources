@@ -73,7 +73,7 @@
   - [Fundamentals of Computer Networking](https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/)
   - [A set of networking tutorials](https://www.softwaretestinghelp.com/computer-networking-basics/)
   
-- A Collection of Cheatsheet
+- [A Collection of Cheatsheet](#cheatsheet)
   - [Vim cheatsheet](https://vim.rtorr.com)
   - [Git cheatsheet](http://git-cheatsheet.com/)
   - [Git cheatsheet2 by ndpsoftware](https://ndpsoftware.com/git-cheatsheet.html#loc=stash)
