@@ -43,9 +43,9 @@ The Devops process is an infinite loop, comprising these steps:
 1.Plan, 2.SourceCode, 3.Build, 4.Test, 5.Release, 6.Deploy, 7.Operate, 8. Monitor
 and through feedback which will resets the process loop.
 
-![Figure 1 image from Raghunathan Bakkianathan](images/Picture1.png)
+![Figure 1 image from Daniel Garay, Parasoft](images/Picture1.png)
 
-##### Figure 1 image from Raghunathan Bakkianathan
+##### Figure 1 image from Daniel Garay, Parasoft
 
 
 
