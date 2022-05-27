@@ -98,6 +98,7 @@
 
 - Ansible
   - [Arithmetic Operations in Ansible with Jinja syntax](https://www.mydailytutorials.com/ansible-arithmetic-operations/)
+  - [Training Course for Ansible Automation Platform](https://aap2.demoredhat.com/)
 
 - Terraform
   - [Learn Terraform the hard way](https://github.com/AdminTurnedDevOps/Terraform-The-Hard-Way)
