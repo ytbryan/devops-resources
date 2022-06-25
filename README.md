@@ -42,7 +42,9 @@
     - [Learn Git Branching](https://learngitbranching.js.org/)
     - [An open source game about learning Git!](https://ohmygit.org/)
     - [Oh Shit, Git!?!](https://ohshitgit.com/)
+    - [19 Essential Git Commands](https://twitter.com/oliverjumpertz/status/1540292529006022721)
   - [Periodic table of Devops tools](https://digital.ai/periodic-table-of-devops-tools)
+ 
 
 - Vim 
   - [Vim References](https://learnbyexample.github.io/vim_reference/Introduction.html)
