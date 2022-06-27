@@ -43,12 +43,14 @@
     - [An open source game about learning Git!](https://ohmygit.org/)
     - [Oh Shit, Git!?!](https://ohshitgit.com/)
     - [19 Essential Git Commands](https://twitter.com/oliverjumpertz/status/1540292529006022721)
+    - [Visualizing Git Concepts with D3
+](https://onlywei.github.io/explain-git-with-d3/)
   - [Periodic table of Devops tools](https://digital.ai/periodic-table-of-devops-tools)
  
 
 - Vim 
   - [Vim References](https://learnbyexample.github.io/vim_reference/Introduction.html)
-  
+  - [Vim help org](https://vimhelp.org/version9.txt.html)
 - DevOps Blogs
   - [DevOps Group Blog](https://www.devopsgroup.com/blog/)
   - [Digital.ai](https://digital.ai/catalyst-blog)
