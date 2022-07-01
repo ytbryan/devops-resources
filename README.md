@@ -45,6 +45,7 @@
     - [19 Essential Git Commands](https://twitter.com/oliverjumpertz/status/1540292529006022721)
     - [Visualizing Git Concepts with D3](https://onlywei.github.io/explain-git-with-d3/)
     - [Atlassian Git tutorial](https://www.atlassian.com/git/tutorials/advanced-overview)
+    - [Large file storage](https://git-lfs.github.com.)
   - [Periodic table of Devops tools](https://digital.ai/periodic-table-of-devops-tools)
  
 
