@@ -47,6 +47,8 @@
     - [Atlassian Git tutorial](https://www.atlassian.com/git/tutorials/advanced-overview)
     - [Large file storage](https://git-lfs.github.com.)
     - [Pro Git Book 2](https://github.com/progit/progit2)
+    - [Github Skill](https://skills.github.com)
+    
   - [Periodic table of Devops tools](https://digital.ai/periodic-table-of-devops-tools)
  
 
