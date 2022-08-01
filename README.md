@@ -33,7 +33,9 @@
   - [Visual Studio Code](https://code.visualstudio.com/)
     - [Useful VSCode extension for Python 1](https://livecodestream.dev/post/best-vscode-extensions-for-python/)
     - [Useful VSCode extension for Python 2](https://www.datasource.ai/en/data-science-articles/top-10-python-extensions-for-visual-studio-code)
-
+    - [Python Tutor for beginners](https://pythontutor.com/visualize.html#mode=edit)
+    - [Thonny - Python IDE for beginners](https://thonny.org)
+        
 - DevOps Theory
   - [Git](https://git-scm.com/docs)
     - [Git Stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
