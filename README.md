@@ -50,7 +50,7 @@
     - [Large file storage](https://git-lfs.github.com.)
     - [Pro Git Book 2](https://github.com/progit/progit2)
     - [Github Skill](https://skills.github.com)
-    
+    - [Write useful git message](https://www.conventionalcommits.org/en/v1.0.0/)
   - [Periodic table of Devops tools](https://digital.ai/periodic-table-of-devops-tools)
  
 
