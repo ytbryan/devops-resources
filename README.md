@@ -125,7 +125,9 @@
     - [DevOps Architecture drawing](https://www.cloudskew.com/)
     - [FREE IBM editable powerpoint](https://www.ibm.com/cloud/architecture/files/devops-editable-ppt.pptx)
 
-
 - News 
   - [devopsdigest](https://www.devopsdigest.com)
-  - 
+
+- Applied Tutorial
+  - Simple DevOps Project-1 | Simple DevOps project for CI/CD | CI/CD through Jenkins
+https://www.youtube.com/watch?v=Z9G5stlXoyg 
