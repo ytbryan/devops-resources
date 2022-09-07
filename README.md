@@ -131,3 +131,5 @@
 - Applied Tutorial
   - Simple DevOps Project-1 | Simple DevOps project for CI/CD | CI/CD through Jenkins
 https://www.youtube.com/watch?v=Z9G5stlXoyg 
+- Simple DevOps Project-2 | CI/CD pipeline using GIT, Jenkins & Ansible
+https://www.youtube.com/watch?v=nE4b9mW2ym0
