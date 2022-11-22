@@ -37,6 +37,7 @@
     - [Thonny - Python IDE for beginners](https://thonny.org)
         
 - DevOps Theory
+  - [Brian Yu's introduction to Git](https://www.youtube.com/watch?v=eulnSXkhE7I)
   - [Git](https://git-scm.com/docs)
     - [Git Stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
     - [Working with forks](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks)
