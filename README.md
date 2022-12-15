@@ -61,6 +61,8 @@
     - [Pro Git Book 2](https://github.com/progit/progit2)
     - [Github Skill](https://skills.github.com)
     - [Write useful git message](https://www.conventionalcommits.org/en/v1.0.0/)
+    - [Intro to git merge and git rebase](https://www.freecodecamp.org/news/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f/)
+    - [Intro to git rebase and force push by git lab](https://docs.gitlab.com/ee/topics/git/git_rebase.html#regular-rebase)
   - [Periodic table of Devops tools](https://digital.ai/periodic-table-of-devops-tools)
  
 
