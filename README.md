@@ -42,6 +42,8 @@
     - [Thonny - Python IDE for beginners](https://thonny.org)
         
 - DevOps Theory
+  - [Learn Learn a professional Git workflow with a bot as your teammate. For free!](https://profy.dev/project/github-minesweeper)
+  - [Git and Github full course in 5 hours](https://www.youtube.com/watch?v=KMOmw19ZCGs)
   - [Brian Yu's introduction to Git](https://www.youtube.com/watch?v=eulnSXkhE7I)
   - [Git](https://git-scm.com/docs)
     - [Git Stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
