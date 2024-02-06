@@ -72,6 +72,7 @@
   - [Vim References](https://learnbyexample.github.io/vim_reference/Introduction.html)
   - [Vim help org](https://vimhelp.org/version9.txt.html)
 - DevOps Blogs
+  - [Spacelift Blog](https://spacelift.io/blog)
   - [DevOps Group Blog](https://www.devopsgroup.com/blog/)
   - [Digital.ai](https://digital.ai/catalyst-blog)
   - [Everything DevOps on Reddit](https://www.reddit.com/r/devops/)
